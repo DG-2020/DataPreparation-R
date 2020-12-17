@@ -1,2 +1,2 @@
-# DataPreparation-R
-Fortune 500-Marked up database-R Profgramming
+# DataPreparation-RProject
+Fortune 500-Marked up database-R Programming
